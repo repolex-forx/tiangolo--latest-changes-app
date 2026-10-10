@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "latest-changes-app",
+  "versions": [
+    {
+      "commit": "a9c141236754e1de7496f44302e02c5527a1bfa5",
+      "tag": "0.0.5",
+      "parsed_at": "2026-10-10T04:30:06.548235+00:00"
+    }
+  ]
+}
